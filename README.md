@@ -1,6 +1,5 @@
-# Dolly
+# ~~MuxDay~~ Dolly
 Discord.js bot with safety, entertainment, moderation features. <br /><br />
-<img src="https://muxday.dewanmukto.com/assets/images/MuxDay_bot_banner.png" width="50%">
 
 ### Technologies used
 Node.js, Discord.js, NPM
@@ -60,5 +59,6 @@ Extra credits go to the creators of the NPM modules used herein.
 ✔️ 30 May 2022 : Today marks the 10th day of progress. Added gacha rolls (cards) and a card showcasing system. Need to add a feature to sell duplicates.
 ✔️ 31 May 2022 : Worked on the job feature. Managed to get the job board right, and also the daily reward system.
 ✔️ 01 June 2022 : Worked on 'work' function. Currently just provides money instantly. Will add puzzling tasks to make it more fun and challenging, later.
-🔥 02 June 2022 : Worked on 'fish','sell', and 'inventory'. Something's wrong with 'sell' and 'fish'. Had to shut down my bots for diverting attention towards finding jobs.
+✔️ 02 June 2022 : Worked on 'fish','sell', and 'inventory'. Something's wrong with 'sell' and 'fish'. Had to shut down my bots for diverting attention towards finding jobs.
+🔥 07 June 2024 : Renamed the bot to Dolly, to remain distinct from the parent organization.
 ```
